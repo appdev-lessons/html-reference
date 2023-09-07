@@ -1,3 +1,3 @@
 # html-reference
 
-https://learn.firstdraft.com/lessons/59
+https://learn.firstdraft.com/lessons/59-html-reference
